@@ -1,0 +1,8 @@
+Pentru a rula Robotul folositi Main2.xaml, inca nu am implementat Reframework deoarece 
+mai am nevoie de timp sa imi dau seama cum functioneaza Orchestratorul.
+
+Tema proiectului este un robot  care preia ca date de input un excel cu o lista de produse pe care
+trebuie sa le caute pe siteul emag dupa anumite criterii si afiseaza in fisierul de Output 
+primele produse gasite(nume, pret, url) si o medie a preturilor pe care o sa o folosesc mai departe
+sa estimez valoarea totala a comenzii(inca nu este implementata).
+
